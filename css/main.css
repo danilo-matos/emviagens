@@ -9739,8 +9739,7 @@ div[data-slider] > input[type=range]::-ms-tooltip {
 
 .text-blue-1 {
   color: #ff3300 !important;
-  text-decoration: underline;
-}
+    }
 
 .text-blue-2 {
   color: var(--color-blue-2);
